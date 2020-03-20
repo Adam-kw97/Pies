@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956482823302",
+    "firebase_url": "https://gps3-c1248.firebaseio.com",
+    "project_id": "gps3-c1248",
+    "storage_bucket": "gps3-c1248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956482823302:android:c823a8e2889408a0bb1d07",
+        "android_client_info": {
+          "package_name": "com.example.pies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956482823302-jqovk3i4aim6vvuht0cojp7n76f1d96q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpM86plvifaFEcauK_umPP0VyI_p9VhkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956482823302-jqovk3i4aim6vvuht0cojp7n76f1d96q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
